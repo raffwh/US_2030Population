@@ -30,5 +30,5 @@
 
 ## DISCLAIMER 
 #### This is one of my first projects in making data visualisation, code choices and design decisions are purely my own preferences and based on my skill level at the time
-#### Data was available publically. The extrapolation and percentage prediction are only informational. I did not checked how it was calculated.
+#### Data was available publically. The extrapolation and percentage prediction are only informational. I did not check how it was calculated.
 #### Feel free to make the code better.
