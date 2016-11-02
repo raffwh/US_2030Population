@@ -15,3 +15,20 @@
 ### DATA VIZ
 * GGPLOT2 is used mostly. Theme, color, title were minimal. Graphs were exported in .eps file.
 * Graphs were imported to Adobe Illustrator where fonts, colors, info were added.
+
+## EXAMPLE OF WORK PROGRESS
+### Raw export from R:
+![Raw export]
+(https://github.com/raffwh/US_2030Population/blob/master/r_raw-export.png)
+
+
+
+### Final draft from AI:
+![Proper graph]
+(https://github.com/raffwh/US_2030Population/blob/master/ai_final.png)
+
+
+## DISCLAIMER 
+#### This is one of my first projects in making data visualisation, code choices and design decisions are purely my own preferences and based on my skill level at the time
+#### Data was available publically. The extrapolation and percentage prediction are only informational. I did not checked how it was calculated.
+#### Feel free to make the code better.
